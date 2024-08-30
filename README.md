@@ -1,5 +1,6 @@
 # FinancialNews_and_StockPrice
-## This project focuses on the detailed analysis of a large corpus of financial news data to discover correlations between news sentiment and stock market movements. This challenge is designed to refine your skills in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE).
+
+### This project focuses on the detailed analysis of a large corpus of financial news data to discover correlations between news sentiment and stock market movements. This challenge is designed to refine your skills in Data Engineering (DE), Financial Analytics (FA), and Machine Learning Engineering (MLE).
 
 Requirements for Completing this Task
 
@@ -8,11 +9,11 @@ FNSPID (Financial News and Stock Price Integration Dataset), is a comprehensive 
 
 The structure of the data is as follows
 
-    headline: Article release headline, the title of the news article, which often includes key financial actions like stocks hitting highs, price target changes, or company earnings.
-    url: The direct link to the full news article.
-    publisher: Author/creator of article.
-    date: The publication date and time, including timezone information(UTC-4 timezone).
-    stock: Stock ticker symbol (unique series of letters assigned to a publicly traded company). For example (AAPL: Apple)
+ headline: Article release headline, the title of the news article, which often includes key financial actions like stocks hitting highs, price target changes, or company earnings.
+ url: The direct link to the full news article.
+ publisher: Author/creator of article.
+ date: The publication date and time, including timezone information(UTC-4 timezone).
+ stock: Stock ticker symbol (unique series of letters assigned to a publicly traded company). For example (AAPL: Apple)
 
 
 
