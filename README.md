@@ -1,7 +1,7 @@
 # FinancialNews_and_StockPrice
 Requirements for Completing this Task
-Task-1:
 
+Task-1:
 Set up a Python environment.
 Create a GitHub repository to host all the code.
 Create a new branch named task-1 for the first day’s analysis.
